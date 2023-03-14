@@ -1,0 +1,117 @@
+#Title{
+  background-color:#E5FDD1;
+  padding-bottom: 30%;
+}
+h1{
+  padding-top: 35%;
+}
+h2{
+  font-family: cursive;
+}
+h3{
+  text-align: center;
+  padding-bottom: 35px;
+}
+h6{
+  margin-top: 0;
+  font-size:220%;
+}
+a.two:link {color:#ff0000;}
+a.two:visited {color:#0000ff;}
+a.two:hover {font-size:150%;}
+.img{
+  width:125px;
+  height: 300px;
+}
+.col{
+  padding-top: 100px;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.navbar-brand{
+font-family: "Ubuntu";
+font-size:2.5rem;
+font-weight: bold;
+padding-left:30px;
+}
+.nav-item{
+  padding:0 10px;
+}
+.nav-link{
+  font-size:1.2rem;
+  font:"Monserrat-light";
+  font-weight: bold;
+}
+.d-flex{
+  padding-right: 5%;
+}
+.download-btn{
+margin:5% 3% 5% 0%;
+font-size:"Ubuntu";
+}
+.icon1{
+  margin-bottom: 2rem;
+}
+.icon1:hover{
+  color:#d62976;
+}
+.icon2{
+  margin-bottom: 2rem;
+}
+.icon3{
+  margin-bottom: 2rem;
+}
+.icon4{
+  margin-bottom: 2rem;
+}
+.icon2:hover{
+
+    color:#1DA1F2;
+}
+.icon3:hover{
+  color: #3b5998;
+}
+.icon4:hover{
+  color:#0A66C2;
+}
+
+.icon5{
+  margin-bottom: 2rem;
+}
+.icon5:hover{
+
+    color:#E60023;
+}
+#testimonials{
+  padding: 2% 6%;
+  text-align: center;
+  background-color:#609966;
+  color:black;
+}
+.testimonial-image{
+  width:70%;
+  margin:40px;
+  padding: 5%;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 8%;
+    width: 40%;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+}
+#features{
+  padding:7% 15%;
+  background-color:#CCD5AE;
+}
+#feature-box{
+  text-align: center;
+  background-color:black;
+}
+#last{
+  padding:7% 6%;
+}
+.last_page{
+  background-image:url("near_beach.jpeg");
+}
